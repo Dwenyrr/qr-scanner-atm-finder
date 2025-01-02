@@ -1,9 +1,9 @@
 # qr-scanner-atm-finder
-School project: Mobile application for scanning QR-codes and locating nearest ATM.
+School project: Mobile application for scanning QR-codes and locating nearest ATM.<br/>
 Developed with **React Native, React Native Paper** and **Expo Camera and Location components**.
 
 ## Functionality:
-This application consists of two small separate applications:
+This application consists of two small separate applications:<br/>
 **1. QR-browser**
    * QR-codes can be scanned inside the application with the Expo Camera
    * After the QR-code is scanned, the validity of the scanned url is checked.
